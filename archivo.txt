@@ -1,0 +1,18 @@
+MongoDB es una base de datos NoSQL de código abierto y orientada a documentos que ofrece alta escalabilidad, rendimiento y disponibilidad. En lugar de almacenar datos en tablas como en las bases de datos relacionales, MongoDB utiliza un formato flexible de documentos en estilo JSON llamado BSON, que permite almacenar datos no estructurados y complejos con facilidad.
+
+Características principales:
+
+Orientada a documentos: Permite almacenar datos en documentos flexibles y semiestructurados, facilitando la adaptación a diferentes tipos de datos y estructuras.
+Escalabilidad horizontal: Puede distribuirse fácilmente en múltiples servidores para manejar grandes volúmenes de datos y ofrecer alta disponibilidad.
+Indexación: Soporta la indexación de cualquier campo dentro de un documento para optimizar las consultas y mejorar el rendimiento.
+Replicación: Ofrece replicación automática a través de conjuntos de réplicas para garantizar la redundancia y proteger contra fallos de hardware.
+Agregación y consultas ad-hoc: MongoDB proporciona capacidades de agregación y consultas ad-hoc para analizar y manipular datos en tiempo real.
+Lenguaje de consulta rico: Soporta consultas complejas y flexibles, permitiendo a los desarrolladores acceder y manipular datos con facilidad.
+Casos de uso en los que MongoDB es adecuado:
+
+Aplicaciones con esquemas de datos cambiantes: Si los requisitos de datos cambian con frecuencia, MongoDB es una buena opción debido a su flexibilidad en la estructura de datos.
+Big Data y análisis en tiempo real: Gracias a su escalabilidad y capacidad de agregación, MongoDB es ideal para manejar grandes volúmenes de datos y realizar análisis en tiempo real.
+Aplicaciones web y móviles: MongoDB se adapta bien a aplicaciones web y móviles que requieren alta disponibilidad y escalabilidad.
+Sistemas de gestión de contenido: La flexibilidad en el almacenamiento de documentos hace que MongoDB sea adecuado para sistemas de gestión de contenido con estructuras de datos diversas y complejas.
+Internet de las cosas (IoT): La capacidad de manejar grandes volúmenes de datos y su flexibilidad en el esquema de datos hace que MongoDB sea una opción adecuada para aplicaciones de IoT.
+MongoDB es una excelente opción para casos de uso que requieren flexibilidad, escalabilidad y alta disponibilidad. Sin embargo, puede no ser la mejor opción para aplicaciones que requieran transacciones complejas y garantías de consistencia a nivel de datos en todo el sistema, como en el caso de las bases de datos relacionales.
